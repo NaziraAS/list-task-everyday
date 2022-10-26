@@ -1,2 +1,2 @@
 # list-task-everyday
-simpele aplikasi list-task-everyday menggunakan teknologi java script
+simple aplikasi list-task-everyday menggunakan teknologi java script
