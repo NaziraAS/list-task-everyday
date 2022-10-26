@@ -1,0 +1,13 @@
+1. requirement
+  - node js
+  - react js
+  - html
+  - css
+  - mongodb
+  - express js
+ 2. step 
+  - aplikasi list-task-everyday ini adalah simple aplikasi untuk mencoba membuat aplikasi dengan menggunakan teknologi javascript, di aplikasi ini user bisa login sesuai dengan
+    akun masing-masing setelah register
+  - user bisa melihat, menambahkan, menghapus, mengedit list
+  
+  #ENJOY
