@@ -5,6 +5,10 @@
   - css
   - mongodb
   - express js
+  - module npm
+    - express-async-handler
+    - express
+    - mongoose
  2. step 
   - aplikasi list-task-everyday ini adalah simple aplikasi untuk mencoba membuat aplikasi dengan menggunakan teknologi javascript, di aplikasi ini user bisa login sesuai dengan
     akun masing-masing setelah register
