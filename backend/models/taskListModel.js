@@ -3,9 +3,14 @@ const mongoose=require('mongoose')
 
 const taskListSchema=mongoose.Schema(
     {
-      task:{
-        type:String,
-        required:[true,'task tidak boleh kosong']
+        user_id:{
+            type:mongoose.Schema.Types.ObjectId,
+            required:true,
+            ref:'User'
+        },
+        task:{
+            type:String,
+            required:[true,'task tidak boleh kosong']
       }
     },
     {

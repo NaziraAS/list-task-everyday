@@ -10,6 +10,7 @@ app.use(express.json())
 app.use(express.urlencoded({extended:false}))
 
 app.use('/api/task', require('./routes/taskListRoutes'))
+app.use('/api', require('./routes/userRoutes'))
 app.use(errorHandler)
 
 
